@@ -1,4 +1,4 @@
-package com.juson.algorithims;
+package com.juson.utils;
 
 /**
  * Created by juson on 4/18/16.

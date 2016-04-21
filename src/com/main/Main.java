@@ -1,6 +1,6 @@
 package com.main;
 
-import com.juson.algorithims.*;
+import com.juson.algorithms.*;
 import com.juson.utils.DumpTest;
 
 public class Main {
@@ -14,7 +14,7 @@ public class Main {
 
         DumpTest.dumpIntArray(a);
 
-        MergeSort.sort(a);
+        QuickSort.sort(a);
 
 //        ShellSort.sort(a);
         DumpTest.dumpIntArray(a);

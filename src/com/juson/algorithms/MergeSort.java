@@ -1,4 +1,4 @@
-package com.juson.algorithims;
+package com.juson.algorithms;
 
 import java.util.Arrays;
 
